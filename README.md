@@ -2,7 +2,8 @@
 
 ---
 
-### 1) https://github.com/RudovEgor/Hinkalnya - веб проект
+### 1)Опыт был, верстал сайты с макетов Figma, на данный момент практикую ASP.NET , хочу вернуться к web-разработке, уж очень мне это нравилось)
+### https://github.com/RudovEgor/Hinkalnya - веб проект
 
 ---
 
@@ -10,7 +11,7 @@
 
 ---
 
-### 3)
+### 3) SQL-запрос
     CREATE TABLE Products (
 	Id INT PRIMARY KEY,
 	"Name" TEXT
