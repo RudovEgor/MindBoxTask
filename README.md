@@ -60,7 +60,10 @@
 	ON P.Id = PC.ProductId
     LEFT JOIN Categories C
 	ON PC.CategoryId = C.Id;
-  
+	
+	
+	
+  Ответ(png) - https://github.com/RudovEgor/MindBoxTask/blob/master/sql.png
 ---  
   
 ### 4) ДА!). Я давно узнал о вашей компании и было бы очень круто если бы свой долгий путь программиста начинался именно с вами, я попробую выжать из стажировки, и в последующей работе надеюсь, максимум пользы для себя и для вас)
