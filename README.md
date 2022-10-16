@@ -27,9 +27,9 @@
 
     INSERT INTO Products
     VALUES
-	(1, 'C# in a Nutshell'),
-	(2, 'KIA Rio'),
-	(3, 'ASUS Rog Strix');
+	(1, 'Beef'),
+        (2, 'Сucumber'),
+        (3, 'Tomato');
 
     CREATE TABLE Categories (
 	Id INT PRIMARY KEY,
@@ -38,9 +38,9 @@
 
     INSERT INTO Categories
     VALUES
-	(1, 'Book'),
-	(2, 'Car'),
-	(3, 'Gift');
+	(1, 'Meet'),
+        (2, 'Dairy_produce'),
+        (3, 'Vegetables');
 
     CREATE TABLE ProductCategories (
 	ProductId INT FOREIGN KEY REFERENCES Products(Id),
@@ -51,8 +51,8 @@
     INSERT INTO ProductCategories
     VALUES
 	(1, 1),
-	(2, 1),
-	(3, 2);
+	(2, 3),
+	(3, 3);
 
     SELECT P."Name", C."Name"
     FROM Products P
