@@ -2,11 +2,11 @@
 
 ---
 
-### 1) https://github.com/RudovEgor/Hinkalnya
+### 1) https://github.com/RudovEgor/Hinkalnya - веб проект
 
 ---
 
-### 2) https://github.com/RudovEgor/MindBoxTask
+### 2) https://github.com/RudovEgor/MindBoxTask - тестовое задание
 
 ---
 
